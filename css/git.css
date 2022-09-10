@@ -1,9 +1,19 @@
 #Container header {
 
     border: solid 2px gray;
+    
 }
 
 #Container {
 
-    width: 300px;
+    width: 960px;
+    margin: auto;
+}
+
+#main {
+
+    width: 600px;
+    background-color: antiquewhite;
+    border: black solid 2px;
+    border-radius: 10px;
 }
