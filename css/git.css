@@ -15,13 +15,13 @@
 
     width: 600px;
     background-color: antiquewhite;
-    border: black solid 2px;
+    border: green solid 2px;
     border-radius: 10px;
 }
 
 #footer {
 
     background-color: aquamarine;
-    border: solid 3px lightcyan;
+    border: solid 3px black;
 }
 
