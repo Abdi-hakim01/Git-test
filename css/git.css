@@ -25,5 +25,8 @@
 
     background-color: blue;
     width: 240px;
-    margin: auto;
+}
+#footer-undertext {
+
+    background-color: blueviolet;
 }
