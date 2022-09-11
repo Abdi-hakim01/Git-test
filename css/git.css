@@ -19,14 +19,9 @@
     border-radius: 10px;
 }
 
+#footer {
 
- 
-#contact-page {
-
-    background-color: blue;
-    width: 240px;
+     background-color: aquamarine;
+    border: solid 3px brown;
 }
-#footer-undertext {
 
-    background-color: blueviolet;
-}
